@@ -1,0 +1,4 @@
+.env 
+multienv/ 
+_pycache_/ 
+*.pyc 
